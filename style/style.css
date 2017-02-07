@@ -1,0 +1,25 @@
+body{
+  padding-top: 20px;
+}
+
+.profile-image{
+  width:40px;
+  height:auto;
+  border-radius: 100%;
+}
+.btn{
+  margin:5px;
+}
+.ftable table {
+    counter-reset: rowNumber;
+}
+
+.ftable tbody tr {
+    counter-increment: rowNumber;
+}
+
+.ftable tbody tr td:first-child::before {
+    content: counter(rowNumber);
+    min-width: 1em;
+    margin-right: 0.5em;
+}
