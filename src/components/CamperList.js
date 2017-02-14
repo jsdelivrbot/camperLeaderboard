@@ -11,9 +11,10 @@ constructor(props){
     loaded: false,
     recentCampers: [],
     allTimeCampers: [],
-    currentVeiw: null,
-    selectedCamper: 'recentCampers'
+    currentVeiw: 'recentCampers',
+    selectedCamper: null
   };
+  this.renderTable = this.renderTable.bind(this);
 }
 //json data request
 fetchRecentCampers(){
@@ -34,18 +35,22 @@ componentWillMount(){
         recentCampers: recent.data,
         allTimeCampers: alltime.data,
         currentVeiw: 'recentCampers',
-
+        selectedCamper: recent.data
 
       });
     }));
 }
 
-changeTitle(currentVeiw){
-  this.setState({currentVeiw});
+changeTitle(props){
+  this.setState({
+    currentVeiw: props
+  });
+  
+  
 }
 
-renderTable(){
-  return this.state.recentCampers.map((camper) => {
+renderTable(props){
+  return props.map((camper) => {
     return <CamperListItem key={camper.username} {...camper} />
   });
 }
@@ -70,7 +75,7 @@ renderTable(){
             </tr>
           </thead>
           <tbody>
-            {this.renderTable()}
+            {this.renderTable(this.state.selectedCamper)}
           </tbody>
         </table>
       </div>
