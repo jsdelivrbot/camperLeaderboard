@@ -202,7 +202,7 @@
 
 	{
 		"theme_name": "Absolution",
-		"theme_url": "https://rawgit.com/MichaelVdheeren/Absolution/master/compiled/absolution.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/MichaelVdheeren/Absolution@master/compiled/absolution.css",
 		"group": "3rd-party",
 		"active": "yes",
 		"author": "https://github.com/MichaelVdheeren/Absolution",
@@ -235,7 +235,7 @@
 	},
 	{
 		"theme_name": "Selene",
-		"theme_url": "https://rawgit.com/rickyrauch/Selene/master/css/ui-selene/jquery-ui-1.8.17.custom.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/rickyrauch/Selene@master/css/ui-selene/jquery-ui-1.8.17.custom.css",
 		"group": "3rd-party",
 		"active": "yes",
 		"author": "https://github.com/gravityonmars/Selene",
@@ -244,7 +244,7 @@
 
 	{
 		"theme_name": "arctic",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/arctic/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/arctic/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/arctic/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -253,7 +253,7 @@
 	},
 	{
 		"theme_name": "aristo",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/aristo/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/aristo/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/aristo/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -263,7 +263,7 @@
 	},
 	{
 		"theme_name": "bootstrap",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/bootstrap/jquery-ui.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/bootstrap/jquery-ui.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/bootstrap/jquery-ui.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -272,7 +272,7 @@
 	},
 	{
 		"theme_name": "cobalt",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/cobalt/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/cobalt/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/cobalt/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -281,7 +281,7 @@
 	},
 	{
 		"theme_name": "metro",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/metro/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/metro/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/metro/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -290,7 +290,7 @@
 	},
 	{
 		"theme_name": "metro-dark",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/metro-dark/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/metro-dark/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/metro-dark/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -299,7 +299,7 @@
 	},
 	{
 		"theme_name": "midnight",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/midnight/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/midnight/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/midnight/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -308,7 +308,7 @@
 	},
 	{
 		"theme_name": "rocket",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/rocket/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/rocket/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/rocket/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",
@@ -317,7 +317,7 @@
 	},
 	{
 		"theme_name": "sterling",
-		"theme_url": "https://rawgit.com/wijmo/Wijmo-Complete/master/themes/sterling/jquery-wijmo.css",
+		"theme_url": "https://cdn.jsdelivr.net/gh/wijmo/Wijmo-Complete@master/themes/sterling/jquery-wijmo.css",
 		"theme_url_insecure": "http://cdn.wijmo.com/themes/sterling/jquery-wijmo.css",
 		"group": "Wijmo",
 		"active": "yes",

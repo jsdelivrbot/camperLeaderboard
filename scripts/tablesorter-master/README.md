@@ -91,7 +91,7 @@ If you would like to contribute, please...
 [bower-url]: http://bower.io/search/?q=jquery.tablesorter
 [bower-image]: https://img.shields.io/bower/v/jquery.tablesorter.svg
 [zenhub-url]: https://zenhub.io
-[zenhub-image]: https://cdn.rawgit.com/Mottie/tablesorter/master/docs/img/zenhub-badge.svg
+[zenhub-image]: https://cdn.jsdelivr.net/gh/Mottie/tablesorter@master/docs/img/zenhub-badge.svg
 
 [irc-url]: https://kiwiirc.com/client/irc.freenode.net#tablesorter
 [irc-image]: https://img.shields.io/badge/irc-%23tablesorter-yellowgreen.svg
